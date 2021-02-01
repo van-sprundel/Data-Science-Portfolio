@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [About](#what-is-data-science)
-* [tools](#what-data-science-tools-exist)
+* [Tools](#what-data-science-tools-exist)
 
 ![Data Science](data-science.png)
 
@@ -37,3 +37,6 @@ Here are a few languages used for Big Data, along with the popularity.
 
 ![Tools](most-used-tools.png)
 
+Different languages have different purposes.\
+Python is very high-level and has a wide variety of use-cases. So this language will mainly be used throughout our
+project.
