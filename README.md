@@ -1,5 +1,7 @@
 # Data Science Portfolio
+
 Portfolio for the subject Data Science for Avans Hogeschool
+t
 ## Table of contents
 
 * [About](#what-is-data-science-week-1)
@@ -7,7 +9,9 @@ Portfolio for the subject Data Science for Avans Hogeschool
 * [Assignments week 1](week%201)
 
 ## Assignments
+
 #### What is Data Science? (week 1)
+
 ![Data Science](data-science.png)
 Data science is a method of transforming data into valuable business strategies. It is a tool for making sound decisions
 to increase profits, improve the customer journey and spot opportunities.
