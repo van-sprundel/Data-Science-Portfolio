@@ -1,22 +1,21 @@
 # Data Science Portfolio
 
 Portfolio for the subject Data Science for Avans Hogeschool
-t
+
 ## Table of contents
 
-* [About](#what-is-data-science-week-1)
-* [Tools](#what-data-science-tools-exist-week-1)
+* [About](#what-is-data-science-assignment-01)
+* [Tools](#what-data-science-tools-exist-assignment-02)
 * [Assignments week 1](week%201)
 
 ## Assignments
 
-#### What is Data Science? (week 1)
+#### What is Data Science? (assignment 01)
 
 ![Data Science](data-science.png)
 Data science is a method of transforming data into valuable business strategies. It is a tool for making sound decisions
 to increase profits, improve the customer journey and spot opportunities.
-
-Data science, or data science, is a methodology for extracting insights from (semi) structured data collected primarily
+Data science is a methodology for extracting insights from (semi) structured data collected primarily
 from databases and unstructured data. Unstructured data includes data collected from non-specified formats. This can be
 anything like a video, images, social media or even emails and Word files. Organisations are using data science to
 further analyse the status of business goals. This manifests itself in various forms to grow sales and reduce costs.
@@ -36,7 +35,7 @@ statistics and algorithms. Data science is a field that focuses on gaining insig
 programming skills, statistical knowledge, and sector and organisational knowledge to make connections and distil
 valuable insights.
 
-#### What Data Science tools exist? (week 1)
+#### What Data Science tools exist? (assignment 02)
 
 There are a lot of languages that can be used to create your software.\
 Here are a few languages used for Big Data, along with the popularity.
